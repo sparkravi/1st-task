@@ -1,0 +1,20 @@
+*{
+			margin: 0.7%;
+		}
+		.navigation{
+			background-color: black;
+			display: flex;
+			justify-content: space-evenly;
+		}
+		.navigation a{
+			color: white;
+		    font-size: 50px;
+		    text-decoration: none;
+		    padding: 2%;
+		}
+		.navigation a:hover{
+			background-color: blue;
+		}
+		.navigation a:visited{
+			background-color: orange;
+		}
